@@ -266,36 +266,36 @@ if uploaded_file is not None:
 
                 A major risk factor for lung cancer.
 
-                **• Second-hand smoke exposure**
+                ** Second-hand smoke exposure**
 
                 Long-term exposure to tobacco smoke from others.
 
-                **• Occupational exposure**
+                **Occupational exposure**
 
                 Exposure to asbestos, silica, arsenic, chromium,
                 and certain industrial chemicals.
 
-                **• Air pollution**
+                **Air pollution**
 
                 Long-term exposure to polluted air and fine
                 particulate matter.
 
-                **• Radon exposure**
+                **Radon exposure**
 
                 Exposure to naturally occurring radioactive
                 radon gas.
 
-                **• Family history and genetic factors**
+                **Family history and genetic factors**
 
                 A family history of lung cancer may increase
                 susceptibility.
 
-                **• Previous radiation exposure**
+                **Previous radiation exposure**
 
                 Certain previous radiation treatments involving
                 the chest.
 
-                **• Age and environmental factors**
+                **Age and environmental factors**
 
                 Risk generally increases with age and prolonged
                 environmental exposure.
