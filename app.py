@@ -155,18 +155,6 @@ if uploaded_file is not None:
             st.stop()
 
         st.divider()
-        st.subheader("📊 Classification Result")
-
-        score_col1, score_col2 = st.columns(2)
-        with score_col1:
-            st.metric("Normal model score", f"{normal_score:.2%}")
-        with score_col2:
-            st.metric("Cancer model score", f"{cancer_score:.2%}")
-
-        st.caption(
-            "These scores are model outputs, not clinically validated probabilities "
-            "or a medical diagnosis."
-        )
 
         if predicted_class == "Cancer":
             st.error("🔴 Cancer-Class Prediction")
