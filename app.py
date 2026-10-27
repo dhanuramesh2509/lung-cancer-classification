@@ -241,7 +241,6 @@ if uploaded_file is not None:
             )
 
             st.markdown(
-                """
                 The uploaded lung CT image has been classified
                 under the **Cancer category** by the trained
                 **CARCINOMA Model**.
@@ -258,7 +257,6 @@ if uploaded_file is not None:
             )
 
             st.markdown(
-                """
                 Lung cancer may be associated with several risk
                 factors, including:
 
@@ -299,7 +297,6 @@ if uploaded_file is not None:
 
                 Risk generally increases with age and prolonged
                 environmental exposure.
-                """
             )
 
 
