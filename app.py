@@ -388,37 +388,37 @@ if uploaded_file is not None:
                 Although the current AI classification is Normal,
                 maintaining good lung health is important.
 
-                **• Avoid tobacco smoking**
+                **Avoid tobacco smoking**
 
                 Avoid smoking and other forms of tobacco use.
 
-                **• Avoid second-hand smoke**
+                **Avoid second-hand smoke**
 
                 Reduce exposure to tobacco smoke from others
                 whenever possible.
 
-                **• Reduce air-pollution exposure**
+                **Reduce air-pollution exposure**
 
                 Reduce exposure to air pollution, dust, and
                 harmful chemical fumes.
 
-                **• Use protective equipment**
+                **Use protective equipment**
 
                 Use appropriate protective equipment when working
                 in dusty or chemically exposed environments.
 
-                **• Maintain regular physical activity**
+                ** Maintain regular physical activity**
 
                 Follow a healthy lifestyle and maintain regular
                 physical activity.
 
-                **• Follow recommended medical check-ups**
+                **Follow recommended medical check-ups**
 
                 Regular medical check-ups may be appropriate,
                 particularly for people with respiratory symptoms
                 or known risk factors.
 
-                **• Pay attention to persistent symptoms**
+                **Pay attention to persistent symptoms**
 
                 Seek medical attention if you experience
                 persistent cough, chest pain, breathing difficulty,
