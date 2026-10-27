@@ -90,25 +90,6 @@ st.markdown(
 
 st.divider()
 
-
-# =========================================================
-# MEDICAL DISCLAIMER
-# =========================================================
-
-st.warning(
-    """
-    ⚠️ **IMPORTANT MEDICAL DISCLAIMER**
-
-    CARCINOMA is an academic/research prototype developed for
-    lung CT image classification.
-
-    The AI-generated result is only a model prediction and does
-    not constitute a confirmed medical diagnosis. It should not
-    be used as a substitute for professional medical evaluation.
-    """
-)
-
-
 # =========================================================
 # PROJECT INFORMATION
 # =========================================================
@@ -265,11 +246,6 @@ if uploaded_file is not None:
                 under the **Cancer category** by the trained
                 **CARCINOMA Model**.
 
-                This is an AI-based image classification result
-                and **does not confirm the presence of cancer**.
-                Professional medical evaluation is required for
-                diagnosis.
-                """
             )
 
 
@@ -399,10 +375,6 @@ if uploaded_file is not None:
                 model, the uploaded image has been classified
                 under the Normal category.
 
-                However, a Normal AI classification does not
-                completely rule out disease or other medical
-                conditions.
-                """
             )
 
 
