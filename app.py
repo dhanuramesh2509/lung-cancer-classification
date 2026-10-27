@@ -262,7 +262,7 @@ if uploaded_file is not None:
                 Lung cancer may be associated with several risk
                 factors, including:
 
-                **• Tobacco smoking**
+                **Tobacco smoking**
 
                 A major risk factor for lung cancer.
 
