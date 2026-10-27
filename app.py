@@ -267,11 +267,6 @@ if uploaded_file is not None:
             """
         )
 
-        st.warning(
-            "**Medical disclaimer:** CARCINOMA is an academic/research prototype for lung CT image classification. "
-            "Its output is not a confirmed diagnosis and must not replace professional medical evaluation."
-        )
-
 # =========================================================
 # FOOTER
 # =========================================================
