@@ -268,7 +268,6 @@ if uploaded_file is not None:
 # =========================================================
 st.divider()
 st.markdown(
-    """
     <div style="text-align:center; color:gray;">
         <b>CARCINOMA</b><br>
         An Intelligent AI Based Cancer Detection Model<br><br>
@@ -276,7 +275,6 @@ st.markdown(
         Department of Computer Science and Engineering<br><br>
         <small>Academic / Research Project</small>
     </div>
-    """,
     unsafe_allow_html=True,
 )
 
