@@ -193,7 +193,7 @@ if uploaded_file is not None:
                 **Previous radiation exposure**  
                 Certain previous radiation treatments involving the chest may be a risk factor.
 
-                These are general risk factors only. The model cannot determine the cause of an individual's result.
+                
                 """
             )
 
