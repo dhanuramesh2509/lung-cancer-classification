@@ -164,9 +164,7 @@ if uploaded_file is not None:
                 The uploaded lung CT image has been classified under the
                 **Cancer** category by the trained **CARCINOMA** model.
 
-                This AI-based result does **not confirm the presence of cancer**.
-                Please seek professional medical evaluation.
-                """
+               
             )
 
             st.subheader("⚠️ Possible Risk Factors Associated with Lung Cancer")
@@ -209,13 +207,11 @@ if uploaded_file is not None:
             st.success("🟢 Normal-Class Prediction")
             st.subheader("📄 AI Classification Report")
             st.markdown(
-                """
+        
                 The uploaded lung CT image has been classified under the
                 **Normal** category by the trained **CARCINOMA** model.
 
-                A Normal classification does **not** completely rule out lung disease
-                or other medical conditions.
-                """
+               
             )
 
             st.subheader("🫁 Healthy Lung Recommendations")
